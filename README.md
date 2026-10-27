@@ -2,12 +2,6 @@
 
 <img width="100%" src="nature-animated-header.gif" alt="Animated mountain, river, and meadow" />
 
-Reno Fadila Kurniawan
-
-📍 Malang, Indonesia
-
-Software Engineering Student · Keep Learning, Keep Growing
-
 </div>
 
 <p>
