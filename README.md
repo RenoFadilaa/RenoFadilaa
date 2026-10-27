@@ -1,6 +1,6 @@
  <div align="center">
 
-<img width="100%" src="nature-animated-header.gif" alt="Animated mountain, river, and meadow" />
+<img width="100%" src="https://i.imgur.com/t35duOE.png" alt="Animated mountain, river, and meadow" />
 
 </div>
 
