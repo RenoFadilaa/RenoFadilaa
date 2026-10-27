@@ -38,7 +38,7 @@ I'm passionate about technology, programming, and building applications that sol
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,visualstudio,git,github,mysql&theme=dark" alt="Technology Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,visualstudio,git,github,mysql&theme=dark" alt="Technology Stack" />
 
 </div>
 
