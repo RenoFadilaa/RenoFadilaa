@@ -1,6 +1,8 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:0B192C,45:1E3E62,100:008DDA&text=RENO%20FADILA%20KURNIAWAN&fontColor=F8FAFC&fontSize=38&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Developer&descAlignY=60&descSize=14" alt="Reno Fadila Kurniawan Header" />
+<img width="100%" src="https://imgur.com/a/SbrYqWj" alt="Reno Fadila Kurniawan" />
+
+</div>
 
 <p>
   <a href="https://github.com/reneffect">
