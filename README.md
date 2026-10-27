@@ -1,11 +1,17 @@
  <div align="center">
 
-<img width="100%" src="https://i.imgur.com/t35duOE.png" alt="Reno Fadila Kurniawan" />
+<img width="100%" src="nature-animated-header.gif" alt="Animated mountain, river, and meadow" />
+
+Reno Fadila Kurniawan
+
+📍 Malang, Indonesia
+
+Software Engineering Student · Keep Learning, Keep Growing
 
 </div>
 
 <p>
-  <a href="https://github.com/reneffect">
+  <a href="https://github.com/renofadilaa">
     <img src="https://img.shields.io/badge/GitHub-0B192C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img src="https://img.shields.io/badge/Malang-Indonesia-1E3E62?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
