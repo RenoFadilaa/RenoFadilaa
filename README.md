@@ -13,8 +13,8 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=reneffect&style=flat-square&color=0284C7&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/reneffect?style=flat-square&color=0369A1&labelColor=0B192C&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=renofadilaat&style=flat-square&color=0284C7&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/renofadilaa?style=flat-square&color=0369A1&labelColor=0B192C&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
 </p>
 
 </div>
@@ -46,11 +46,11 @@ I'm passionate about technology, programming, and building applications that sol
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=reneffect&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=renofadilaat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reneffect&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renofadilaa&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
-<img width="95%" src="https://streak-stats.demolab.com?user=reneffect&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+<img width="95%" src="https://streak-stats.demolab.com?user=renofadilaa&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -58,8 +58,8 @@ I'm passionate about technology, programming, and building applications that sol
 
 <div align="center">
 
-<a href="https://github.com/reneffect/Malang-vers-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=reneffect&repo=Malang-vers-app&theme=tokyonight&hide_border=true" alt="Malang-vers-app Repository" />
+<a href="https://github.com/RenoFadilaa/toko-thrift-laravel">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=renofadilaat&repo=Malang-vers-app&theme=tokyonight&hide_border=true" alt="Laravel Toko-Thrift Repository" />
 </a>
 
 </div>
@@ -78,7 +78,7 @@ I'm always interested in developing new projects, experimenting with ideas, and 
 
 <div align="center">
 
-<a href="https://github.com/reneffect">
+<a href="https://github.com/renofadilaa">
   <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
 </a>
 
